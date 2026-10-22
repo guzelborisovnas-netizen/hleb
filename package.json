@@ -1,0 +1,12 @@
+{
+  "name": "hleb-bakery",
+  "version": "1.0.0",
+  "description": "Сайт пекарни «Хлебные Истории» с чат-виджетом на OpenAI API",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

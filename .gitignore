@@ -1,0 +1,16 @@
+# Environment files containing sensitive keys
+.env
+.env.local
+.env.*.local
+
+# Dependency directories
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS Files
+.DS_Store
+Thumbs.db
